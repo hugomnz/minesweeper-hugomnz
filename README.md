@@ -17,7 +17,7 @@ Versión del clásico **Minesweeper** implementada en [Microsoft MakeCode Arcade
 
 ## 📸 Captura de pantalla
 
-*(inserta aquí una imagen exportada del juego, si quieres subirla al repo como `screenshot.png` y enlazarla con `![Buscaminas](screenshot.png)`)*
+<img width="512" height="424" alt="minesweeper-hugomnz" src="https://github.com/user-attachments/assets/fa14fa5d-7017-4d6a-ac91-bc89c0787179" />
 
 ## 🛠️ Instalación / Uso
 
